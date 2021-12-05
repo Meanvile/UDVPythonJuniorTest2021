@@ -1,6 +1,8 @@
 <h3>Задание на должность Python junior разработчика (проект
 DATAPK)</h3>
 
+
+
 Необходимо разработать back-end, реализующий следующее REST API:
 
 <b>GET /convert?from=RUR&to=USD&amount=42</b>
